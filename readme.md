@@ -1,0 +1,2 @@
+**Big Data Analytics Options on AWS** is a Series containing different articles that provides a basic introduction to different Big Data Analytics Options on AWS. 
+Each article covers the detailed guide on how each service is used for collecting, processing, storing, and analyzing big data.
