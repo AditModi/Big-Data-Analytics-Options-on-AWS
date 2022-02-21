@@ -5,8 +5,8 @@ Each article covers the detailed guide on how each service is used for collectin
 
 # Big Data Analytics Options on AWS
 
-|               || Topic         | Dev.to       | Medium       | Hashnode     | Tealfeed     |
-| ------------  || ------------  | ------------ | ------------ | ------------ | ------------ |
+|               | Topic        | Dev.to       | Medium       | Hashnode     | Tealfeed     |
+| ------------  | ------------ | ------------ | ------------ | ------------ | ------------ |
 |  1 || Introduction to **Amazon Kinesis** |[ Dev.to ](https://dev.to/aws-builders/introduction-to-amazon-kinesis-18fh) |[ Medium ]() |[ Hashnode ](https://aditmodi.hashnode.dev/introduction-to-amazon-kinesis) |[ Tealfeed ]() |
 |  2 || Introduction to **Amazon Managed Streaming for Apache Kafka (Amazon MSK)** |[ Dev.to ](https://dev.to/aws-builders/introduction-to-amazon-managed-streaming-for-apache-kafka-amazon-msk-3fpe) |[ Medium ]() |[ Hashnode ](https://aditmodi.hashnode.dev/introduction-to-amazon-managed-streaming-for-apache-kafka-amazon-msk) |[ Tealfeed ]() |
 |  3 || Introduction to **AWS Glue** |[ Dev.to ](https://dev.to/aws-builders/introduction-to-aws-glue-4624) |[ Medium ]() |[ Hashnode ](https://aditmodi.hashnode.dev/introduction-to-aws-glue) |[ Tealfeed ]() |
