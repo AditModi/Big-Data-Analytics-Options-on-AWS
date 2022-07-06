@@ -10,7 +10,7 @@ Each article covers the detailed guide on how each service is used for collectin
 
 |               | Topic        | Personal Website | Hashnode     | 
 | ------------  | ------------ | ---------------- | ------------ | 
-|  1 | [Introduction to **Amazon Kinesis**](https://github.com/AditModi/Big-Data-Analytics-Options-on-AWS/blob/main/Introduction%20to%20Amazon%20Kinesis.md) |[ Link ]() |[ Hashnode ]() 
+|  1 | Introduction to **Amazon Kinesis** |[ Link ]() |[ Hashnode ]() 
 |  2 | Introduction to **Amazon Managed Streaming for Apache Kafka (Amazon MSK)** |[ Link ]() |[ Hashnode ]() 
 |  3 | Introduction to **AWS Glue** |[ Link ]() |[ Hashnode ]() 
 |  4 | Introduction to **AWS Lake Formation** |[ Link ]() |[ Hashnode ]() 
