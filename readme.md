@@ -5,6 +5,8 @@ Each article covers the detailed guide on how each service is used for collectin
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=AditModi/Big-Data-Analytics-Options-on-AWS)[![Website](https://img.shields.io/website?label=Dev.to&up_message=@aditmodi&url=https%3A%2F%2Fdev.to/aditmodi)](https://dev.to/aditmodi) 
 
+![Big Data Analytics Options on AWS](https://user-images.githubusercontent.com/48589838/177517305-8633a0fa-20fe-42ec-ad64-673b387ac1d5.jpg)
+
 
 |               | Topic        | Personal Website | Hashnode     | 
 | ------------  | ------------ | ---------------- | ------------ | 
