@@ -3,6 +3,10 @@
 **Big Data Analytics Options on AWS** is a Series containing different articles that provides a basic introduction to different Big Data Analytics Options on AWS. 
 Each article covers the detailed guide on how each service is used for collecting, processing, storing, and analyzing big data.
 
+Feel free to make suggestions, I am open to any advice! You can reach me on [Twitter](https://twitter.com/adi_12_modi) or [LinkedIn](https://www.linkedin.com/in/adit-modi-2a4362191/).
+
+##### Enjoy! 😉👍
+
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=AditModi/Big-Data-Analytics-Options-on-AWS)[![Website](https://img.shields.io/website?label=Dev.to&up_message=@aditmodi&url=https%3A%2F%2Fdev.to/aditmodi)](https://dev.to/aditmodi) 
 
 ![Big Data Analytics Options on AWS](https://user-images.githubusercontent.com/48589838/177517305-8633a0fa-20fe-42ec-ad64-673b387ac1d5.jpg)
